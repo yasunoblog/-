@@ -167,8 +167,8 @@ h1::after{
 }
 
 .profile-pic .img-box{
-    /* opacity: 1;/ */
-    /* display: block; */
+    opacity: 1;
+    display: block;
     position: relative;
 }
 
@@ -204,7 +204,7 @@ h1::after{
 } 
 
 .img-responsive{
-    height: 450px;
+    height: 380px;
     width: 230px;
 }
 
